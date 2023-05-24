@@ -10,3 +10,38 @@
 	text-decoration: none; 
 	color: blue;
 }
+.image-link {
+	text-decoration: none
+}
+.homepage-quote {
+	padding: 2px 20px; 
+	background: #ddd;
+}
+td {
+	padding: 10px
+}
+.moby-dick-header {
+	text-align: center; 
+	margin: 0 0 80px;
+}
+.book-report {
+	width: 500px; 
+	margin: 20px auto; 
+	padding: 30px; 
+	background-color: #fafafa;
+}
+.book-image {
+	height: 200px; 
+	float: left; 
+	margin: 0 40px 0 0;
+}
+.moby-dick-quote {
+	font-style: italic; 
+	font-size: 20px;
+}
+.quote-span {
+	font-style: normal; 
+	font-size: 24px; 
+	font-weight: bold; 
+	color: #ff0000;
+}
